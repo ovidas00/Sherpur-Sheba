@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": 0,
+    "src": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/sliders/IMG-20230908-WA0000.jpg"
+  },
+  {
+    "id": 1,
+    "src": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/sliders/IMG-20230908-WA0001.jpg"
+  },
+  {
+    "id": 2,
+    "src": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/sliders/IMG-20230908-WA0002.jpg"
+  },
+  {
+    "id": 3,
+    "src": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/sliders/IMG-20230908-WA0003.jpg"
+  },
+  {
+    "id": 4,
+    "src": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/sliders/IMG-20230908-WA0004.jpg"
+  },
+  {
+    "id": 5,
+    "src": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/sliders/IMG-20230908-WA0005.jpg"
+  },
+  {
+    "id": 6,
+    "src": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/sliders/IMG-20230908-WA0006.jpg"
+  },
+  {
+    "id": 7,
+    "src": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/sliders/IMG-20230908-WA0007.jpg"
+  },
+  {
+    "id": 8,
+    "src": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/sliders/IMG-20230908-WA0008.jpg"
+  },
+  {
+    "id": 9,
+    "src": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/sliders/IMG-20230908-WA0009.jpg"
+  }
+]
