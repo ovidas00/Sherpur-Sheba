@@ -1,1 +1,72 @@
-
+{
+  "item1": [
+    {
+      "image": "image1.jpg",
+      "name": "John Doe",
+      "role": "Engineer",
+      "phone": "+1234567890"
+    },
+    {
+      "image": "image2.jpg",
+      "name": "Jane Smith",
+      "role": "Designer",
+      "phone": "+9876543210"
+    }
+  ],
+  "item2": [
+    {
+      "image": "image3.jpg",
+      "name": "Mike Johnson",
+      "role": "Manager",
+      "phone": "+1122334455"
+    },
+    {
+      "image": "image4.jpg",
+      "name": "Emily Brown",
+      "role": "Sales Rep",
+      "phone": "+5544332211"
+    }
+  ],
+  "item3": [
+    {
+      "image": "image5.jpg",
+      "name": "Sarah White",
+      "role": "Accountant",
+      "phone": "+9988776655"
+    },
+    {
+      "image": "image6.jpg",
+      "name": "David Green",
+      "role": "Marketing",
+      "phone": "+3322114455"
+    }
+  ],
+  "item4": [
+    {
+      "image": "image7.jpg",
+      "name": "Linda Johnson",
+      "role": "HR Manager",
+      "phone": "+6677889900"
+    },
+    {
+      "image": "image8.jpg",
+      "name": "Tom Anderson",
+      "role": "IT Specialist",
+      "phone": "+1122337788"
+    }
+  ],
+  "item5": [
+    {
+      "image": "image9.jpg",
+      "name": "Mary Lee",
+      "role": "Customer Support",
+      "phone": "+4455667788"
+    },
+    {
+      "image": "image10.jpg",
+      "name": "Chris Evans",
+      "role": "Product Manager",
+      "phone": "+9988776655"
+    }
+  ]
+}
