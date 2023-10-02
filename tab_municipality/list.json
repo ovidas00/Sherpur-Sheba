@@ -1,0 +1,16 @@
+{
+  "item1": [
+    {
+      "image": "image1.jpg",
+      "name": "John Doe",
+      "role": "Engineer",
+      "phone": "+1234567890"
+    },
+    {
+      "image": "image2.jpg",
+      "name": "Jane Smith",
+      "role": "Designer",
+      "phone": "+9876543210"
+    }
+  ]
+}
