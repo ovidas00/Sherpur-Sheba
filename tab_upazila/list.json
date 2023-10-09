@@ -92,15 +92,66 @@
   "item2": [
     {
       "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
-      "name": "Michael Smith",
-      "role": "Project Manager",
-      "phone": "+9988776655"
+      "name": "জনাব মোঃ মজিবর রহমান মজনু",
+      "role": "চেয়ারম্যান 
+উপজেলা পরিষদ, শেরপুর, বগুড়া",
+      "phone": "+88০১৭৩০-১৭৩০৭৩"
     },
     {
       "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
-      "name": "Ella Miller",
-      "role": "Financial Analyst",
-      "phone": "+3322114455"
+      "name": "সানজিদা সুলতানা (৩৪ তম বিসিএস)",
+      "role": "উপজেলা নির্বাহী অফিসার 
+শেরপুর, বগুড়া",
+      "phone": "+88০১৭৩৩-৩৩৫৪২৭"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
+      "name": "মো. কামরুল হাসান (তম বিসিএস)",
+      "role": "উপজেলা শিক্ষা অফিসার 
+শেরপুর, বগুড়া",
+      "phone": "+88০১০০০-০০০০০০"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
+      "name": "মোছাঃ শামিমা আকতার (৩১ তম বিসিএস)",
+      "role": "উপজেলা পরিবার পরি: কর্মকর্তা
+শেরপুর, বগুড়া",
+      "phone": "+88০১৭৪৬-৩২৪১৭৯"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
+      "name": "ডাঃ সাজিদ হাসান সিদ্দিকী (তম বিসিএস)",
+      "role": "উপজেলা স্বাস্থ্য ও পরিবার পরি: কর্মকর্তা
+উপজেলা স্বাস্থ্য কমপ্লেক্স,শেরপুর, বগুড়া",
+      "phone": "+8801711049544"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
+      "name": "ডাঃ মোঃ রায়হান পিএএ (৩১ তম বিসিএস)",
+      "role": "উপজেলা প্রাণিসম্পদ অফিসার 
+শেরপুর, বগুড়া",
+      "phone": "+88০১৩২৪-২৮৯৩৩৬"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
+      "name": "এস.এম রেজাউল করিম",
+      "role": "সহকারী কমিশনার (ভূমি) তম বিসিএস
+শেরপুর, বগুড়া",
+      "phone": "+88০১৭৩৩-৩৩৫৪২৮"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
+      "name": "মোঃ রফিকুল ইসলাম",
+      "role": "প্রশাসনিক কর্মকর্তা (উপজেলা নির্বাহী অফিস)
+শেরপুর, বগুড়া",
+      "phone": "+88০১৭১২-০৫২০৩৪"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
+      "name": "মোঃ হেদায়েতুল ইসলাম",
+      "role": "প্রশাসনিক কর্মকর্তা (উপজেলা ভূমি অফিস)
+শেরপুর, বগুড়া",
+      "phone": "+88০১৭১৬-১০৮৭২২"
     }
   ],
   "item3": [
