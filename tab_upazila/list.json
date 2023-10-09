@@ -1,27 +1,103 @@
 {
   "item1": [
     {
-      "image": "image1.jpg",
-      "name": "Alx Turner",
-      "role": "Software Developer",
-      "phone": "+1122334455"
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
+      "name": "জনাব মোঃ হাবিবুর রহমান",
+      "role": "জাতীয় সংসদ সদস্য-৪০,
+বগুড়া-৫, (শেরপুর - ধুনুট)
+পরিচালক পল্লী উন্নয়ন একাডেমি এবং 
+স্বরাষ্ট্র মন্ত্রণালয়ের স্থায়ী কমিটির সদস্য",
+      "phone": "+880"
     },
     {
-      "image": "image12.jpg",
-      "name": "Olivia Davis",
-      "role": "Graphic Designer",
-      "phone": "+5544332211"
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ মজিবর রহমান মজনু.jpg",
+      "name": "জনাব মোঃ মজিবর রহমান মজনু",
+      "role": "সভাপতি 
+বাংলাদেশ আওয়ামীলীগ বগুড়া জেলা এবং
+চেয়ারম্যান,উপজেলা পরিষদ",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/জানে আলম খোকা মেয়র.jpg",
+      "name": "জনাব জানে আলম খোকা",
+      "role": "মেয়র
+শেরপুর পৌরসভা, 
+শেরপুর, বগুড়া",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/এ্যাডভোকেট গোলাম ফারুক.jpg",
+      "name": "এ্যাডভোকেট গোলাম ফারুক",
+      "role": "বাংলাদেশ সুপ্রিম কোর্ট এবং জজ কোর্ট বগুড়া, 
+সাবেক সভাপতি এ্যাডভোকেটস বার সমিতি,
+বগুড়া জেলা",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/সাংবাদিক-সাইফুল-বারীর.jpg",
+      "name": "জনাব মুন্সি সাইফুল বারী ডাবলু",
+      "role": "প্রকাশক ও সম্পাদক 
+সাপ্তাহিক আজকের শেরপুর পত্রিকা
+শেরপুর, বগুড়া",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আবদুস সাত্তার.jpg",
+      "name": "জনাব মোঃ আব্দুস ছাওার",
+      "role": "সাবেক মেয়র
+শেরপুর পৌরসভা 
+শেরপুর, বগুড়া",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/সাবেক মেয়র স্বাধীন কুমার কুণ্ডু.jpg",
+      "name": "জনাব স্বাধীন কুমার কুণ্ডু",
+      "role": "সাবেক মেয়র
+শেরপুর পৌরসভা 
+শেরপুর, বগুড়া",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/.jpg",
+      "name": "জনাব আব্দুল মোমিন",
+      "role": "পরিচালক সাউদিয়া পার্ক সিটি এবং 
+হোটেল সুপার সাউদিয়া
+শেরপুর, বগুড়া",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/সাখাওয়াত.jpg",
+      "name": "জনাব মোঃ সাখাওয়াত হোসেন",
+      "role": "আইনজীবী
+বাংলাদেশ সুপ্রিম কোর্ট, ঢাকা
+শেরপুর, বগুড়া",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/মোঃ জাহিদুর রহমান.jpg",
+      "name": "জনাব মোঃ জাহিদুর রহমান",
+      "role": "লেকচারার, ম্যানেজমেন্ট শাখা
+শেরপুর টাউন ক্লাব পাবলিক লাইব্রেরি মহিলা কলেজ",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/মোঃ সামিউল ইসলাম প্রিন্স.jpg",
+      "name": "জনাব মোঃ সামিউল ইসলাম প্রিন্স",
+      "role": "আইনজীবী
+বাংলাদেশ সুপ্রিম কোর্ট, ঢাকা
+শেরপুর, বগুড়া",
+      "phone": "+880"
     }
   ],
   "item2": [
     {
-      "image": "image13.jpg",
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
       "name": "Michael Smith",
       "role": "Project Manager",
       "phone": "+9988776655"
     },
     {
-      "image": "image14.jpg",
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
       "name": "Ella Miller",
       "role": "Financial Analyst",
       "phone": "+3322114455"
@@ -29,13 +105,13 @@
   ],
   "item3": [
     {
-      "image": "image15.jpg",
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
       "name": "Sophia Hall",
       "role": "Customer Relations",
       "phone": "+6677889900"
     },
     {
-      "image": "image16.jpg",
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
       "name": "Daniel Wilson",
       "role": "Network Administrator",
       "phone": "+1122337788"
