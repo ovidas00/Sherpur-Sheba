@@ -157,15 +157,34 @@
   "item3": [
     {
       "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
-      "name": "Sophia Hall",
-      "role": "Customer Relations",
-      "phone": "+6677889900"
+      "name": "মোছাঃ আছিয়া খাতুন",
+      "role": "উপজেলা নির্বাচন অফিসার 
+শেরপুর, বগুড়া",
+      "phone": "+8801550-042588"
     },
     {
       "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
-      "name": "Daniel Wilson",
-      "role": "Network Administrator",
-      "phone": "+1122337788"
+      "name": "এ কে এম সরোয়ার মোর্শেদ",
+      "role": "ষ্টেনো",
+      "phone": "+8801718-858094"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
+      "name": "মোঃ নাজমুল ইসলাম",
+      "role": "কম্পিউটার অপারেটর",
+      "phone": "+8801710-380554"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
+      "name": "মোঃ মিরাজুল ইসলাম",
+      "role": "কম্পিউটার অপারেটর",
+      "phone": "+8801644-693636"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/আলহাজ্ব মোঃ হাবিবর রহমান.jpg",
+      "name": "মোঃ শহিদুল ইসলাম",
+      "role": "অফিস সহায়ক",
+      "phone": "+8801721-793103"
     }
   ]
 }
