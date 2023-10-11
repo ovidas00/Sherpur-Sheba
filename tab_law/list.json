@@ -2,71 +2,89 @@
   "item1": [
     {
       "image": "image1.jpg",
-      "name": "John Doe",
-      "role": "Engineer",
-      "phone": "+1234567890"
+      "name": "বাবু কুমার সাহা",
+      "role": "অফিসার ইনচার্জ (ওসি) শেরপুর থানা",
+      "phone": "০১৩২০১২৬৭৯৯"
     },
     {
       "image": "image2.jpg",
-      "name": "Jane Smith",
-      "role": "Designer",
-      "phone": "+9876543210"
+      "name": "মোঃ আজমগীর হোসেন",
+      "role": "পুলিশ পরিদর্শক (তদন্ত) শেরপুর থানা",
+      "phone": "০১৩২০১২৬৮০০"
+    },
+    {
+      "image": "image2.jpg",
+      "name": "ডিউটি অফিসার",
+      "role": "শেরপুর থানা",
+      "phone": "০১৩২০-১২৬৮০৪"
+    },
+    {
+      "image": "image2.jpg",
+      "name": "ডিউটি অফিসার",
+      "role": "পুলিশ ফাঁড়ি",
+      "phone": "০১৩২০-১২৬৮০৪"
     }
   ],
   "item2": [
     {
       "image": "image3.jpg",
-      "name": "Mike Johnson",
-      "role": "Manager",
-      "phone": "+1122334455"
+      "name": "হাইওয়ে পুলিশ",
+      "role": "বগুড়া রিজিয়ন কন্ট্রোলরুম",
+      "phone": "০১৭৬৯-৬৯০৬৩৫"
     },
     {
       "image": "image4.jpg",
-      "name": "Emily Brown",
-      "role": "Sales Rep",
-      "phone": "+5544332211"
+      "name": "ট্রাফিক পুলিশ",
+      "role": "শেরপুর",
+      "phone": "+880"
     }
   ],
   "item3": [
     {
       "image": "image5.jpg",
-      "name": "Sarah White",
-      "role": "Accountant",
-      "phone": "+9988776655"
+      "name": "সিপিসি-৩ (বগুড়া ক্যাম্প)",
+      "role": "কোম্পানী কমান্ডার",
+      "phone": "০১৭৭৭-৭১১২৩৩"
     },
     {
       "image": "image6.jpg",
-      "name": "David Green",
-      "role": "Marketing",
-      "phone": "+3322114455"
+      "name": "র‌্যাপিড এ্যাকশন ব্যাটালিয়ন (র‌্যাব) -১২",
+      "role": "কন্ট্রোল রুম",
+      "phone": "০১৭৭৭-৭১১২৯৯"
+    },
+    {
+      "image": "image6.jpg",
+      "name": "ফোন ডিরেক্টরি (র‌্যাব)",
+      "role": "যে কোন ব্যাটালিয়ানের সাথে যোগাযোগ করতে অনুসন্ধান করুন",
+      "phone": "https://www.rab.gov.bd/phone-directory?csrt=8109086750399777891"
     }
   ],
   "item4": [
     {
-      "image": "image7.jpg",
-      "name": "Linda Johnson",
-      "role": "HR Manager",
-      "phone": "+6677889900"
+      "image": "image8.jpg",
+      "name": "অফিসার ইনচার্জ (ডিবি) বগুড়া",
+      "role": "প্রয়োজনে যোগাযোগ করুন",
+      "phone": "01320-126903"
     },
     {
       "image": "image8.jpg",
-      "name": "Tom Anderson",
-      "role": "IT Specialist",
-      "phone": "+1122337788"
+      "name": "ফেসবুক পেইজ (ডিবি) বগুড়া",
+      "role": "প্রয়োজনে যোগাযোগ করুন",
+      "phone": "https://www.facebook.com/ocdb.bogura/"
     }
   ],
   "item5": [
     {
       "image": "image9.jpg",
-      "name": "Mary Lee",
-      "role": "Customer Support",
-      "phone": "+4455667788"
+      "name": "গ্রাম পুলিশ শেরপুর",
+      "role": "প্রয়োজনীয় সেবামূলক তথ্য সংযোজনের কার্যক্রম চলমান",
+      "phone": "+880"
     },
     {
       "image": "image10.jpg",
-      "name": "Chris Evans",
-      "role": "Product Manager",
-      "phone": "+9988776655"
+      "name": "গ্রাম পুলিশ শেরপুর",
+      "role": "প্রয়োজনীয় সেবামূলক তথ্য সংযোজনের কার্যক্রম চলমান",
+      "phone": "+880"
     }
   ]
 }
