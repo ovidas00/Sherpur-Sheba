@@ -1,26 +1,16 @@
 {
   "item1": [
     {
-      "name": "John Doe",
-      "role": "Engineer",
-      "phone": "+1234567890"
-    },
-    {
-      "name": "Jane Smith",
-      "role": "Designer",
-      "phone": "+9876543210"
+      "name": "জরুরী হেল্প লাইন ৯৯৯",
+      "role": "আইন শৃঙ্খলা এবং দূর্যোগপূর্ণ পরিস্থিতিতে জরুরি প্রয়োজনে কল করুন",
+      "phone": "999"
     }
   ],
   "item2": [
     {
-      "name": "Mike Johnson",
-      "role": "Manager",
-      "phone": "+1122334455"
-    },
-    {
-      "name": "Emily Brown",
-      "role": "Sales Rep",
-      "phone": "+5544332211"
+      "name": "শেরপুর ফায়ার স্টেশন",
+      "role": "দূর্যোগপূর্ণ পরিস্থিতিতে কল করুন",
+      "phone": "01730-002332"
     }
   ],
   "item3": [
