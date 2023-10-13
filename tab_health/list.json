@@ -1,74 +1,64 @@
 {
   "item1": [
     {
-      "name": "John Doe",
-      "role": "Engineer",
-      "phone": "+1234567890"
-    },
-    {
-      "name": "Jane Smith",
-      "role": "Designer",
-      "phone": "+9876543210"
+      "name": "উপজেলা স্বাস্থ্য কমপ্লেক্স",
+      "role": "হাসপাতাল রোড, শেরপুর",
+      "phone": "01730-324627"
     }
-  ],
+   ],
   "item2": [
     {
-      "name": "Mike Johnson",
-      "role": "Manager",
-      "phone": "+1122334455"
-    },
-    {
-      "name": "Emily Brown",
-      "role": "Sales Rep",
-      "phone": "+5544332211"
+      "name": "এবিসি চক্ষু হাসপাতাল",
+      "role": "হাজিপুর, শেরপুর",
+      "phone": "01300-095472"
     }
-  ],
+   ],
   "item3": [
     {
-      "name": "Sarah White",
-      "role": "Accountant",
-      "phone": "+9988776655"
-    },
-    {
-      "name": "David Green",
-      "role": "Marketing",
-      "phone": "+3322114455"
+      "name": "মর্ডান ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+      "role": "হাসপাতাল রোড, শেরপুর",
+      "phone": "01719-534908"
     }
-  ],
+ ],
   "item4": [
     {
-      "name": "Linda Johnson",
-      "role": "HR Manager",
-      "phone": "+6677889900"
+      "name": "ডাঃ রেজাউল করিম (মেডিসিন বিশেষজ্ঞ)",
+      "role": "খেজুর তলা, শেরপুর",
+      "phone": "01711-954844"
     },
     {
-      "name": "Tom Anderson",
-      "role": "IT Specialist",
-      "phone": "+1122337788"
+      "name": "ডাঃ শামীমা সুলতানা (স্ত্রী রোগ, গাইনী ও বন্ধ্যাত্ব বিশেষজ্ঞ)",
+      "role": "শেরপুর ডায়াবেটিক সমিতি",
+      "phone": "01706-156439"
+    },
+    {
+      "name": "ডাঃ আমিরুল হোসেন চৌধুরী (মেডিসিন ও ডায়াবেটিস)",
+      "role": "শেরপুর ডায়াবেটিক সমিতি",
+      "phone": "01706-156439"
     }
   ],
   "item5": [
     {
-      "name": "Mary Lee",
-      "role": "Customer Support",
-      "phone": "+4455667788"
+      "name": "জননী ফার্মেসী",
+      "role": "হাটখোলা রোড, শেরপুর",
+      "phone": "+880"
     },
     {
-      "name": "Chris Evans",
-      "role": "Product Manager",
-      "phone": "+9988776655"
+      "name": "সিটি ফার্মেসী",
+      "role": "হাটখোলা রোড, শেরপুর",
+      "phone": "+880"
     }
   ],
   "item6": [
     {
-      "name": "Mary Lee",
-      "role": "Customer Support",
-      "phone": "+4455667788"
+      "name": "উপজেলা স্বাস্থ্য কমপ্লেক্স ",
+      "role": "এ্যাম্বুলেন্স",
+      "phone": "01743918644"
     },
     {
-      "name": "Chris Evans",
-      "role": "Product Manager",
-      "phone": "+9988776655"
+      "name": "বিভিন্ন টেস্টের খরচ",
+      "role": "কিছু কমন টেষ্টের মূল্য তালিকা",
+      "phone": "https://shebazone.com/test-price/"
     }
   ]
 }
