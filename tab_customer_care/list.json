@@ -22,13 +22,23 @@
   ],
   "item4": [
     {
-  	"name": "প্রয়োজনীয় সেবামূলক তথ্য সংযোজনের কার্যক্রম চলমান",
-  	"role": "চলমান",
-  	"phone": "+8801"
+  	"name": "বিকাশ গ্রাহক সেবা কেন্দ্র-শেরপুর",
+  	"role": "খোকন ডিজিটাল স্টুডিও এন্ড স্টেশনারি, আর.এস প্লাজা, বাসস্ট্যান্ড, শেরপুর, বগুড়া",
+  	"phone": "১৬২৪৭"
+	},
+	{
+  	"name": "বিকাশ গ্রাহক সেবা কেন্দ্র-বগুড়া",
+  	"role": "পি এন এইচ টাওয়ার, ২০১, দ্বিতীয় তলা, রোমেনা আফাজ রোড, জলেশ্বরীতলা, বগুড়া সদর, বগুড়া-৫৮০০ [জলেশ্বরীতলা কালীমন্দির থেকে ১০০ মিটার উত্তরে]",
+  	"phone": "16247"
 	}
   ],
   "item5": [
     {
+  	"name": "রকেট হেল্পলাইন নম্বর",
+  	"role": "সমগ্র বাংলাদেশ",
+  	"phone": "16216"
+	},
+   	{
   	"name": "প্রয়োজনীয় সেবামূলক তথ্য সংযোজনের কার্যক্রম চলমান",
   	"role": "চলমান",
   	"phone": "+8801"
@@ -36,6 +46,36 @@
   ],
   "item6": [
     {
+  	"name": "Vivo Service Center - Bogura",
+  	"role": "Runner Plaza, Shop:44-46(5th Floor) Nobab Bari Road",
+  	"phone": "+8801896-034426"
+	},
+	{
+  	"name": "Samsung Service Center - Bogura",
+  	"role": "Al-Amin Complex, Shop:327-336 (2nd Floor) Nawab Bari Road",
+  	"phone": "+8801847-183705"
+	},
+	{
+  	"name": "Xiaomi Service Center - Bogura",
+  	"role": "Al-Amin Complex (2nd Floor) Nawab Bari Road",
+  	"phone": "+8801730-399127"
+	},
+	{
+  	"name": "Realme Service Center - Bogura",
+  	"role": "Runner Plaza, Shop:4-6(4th Floor) Nobab Bari Road",
+  	"phone": "+8801309-026457"
+	},
+	{
+  	"name": "Huawei Service Center - Bogura",
+  	"role": "Delowara Sheikh Sharif Uddin Market, Shop:76-80 (3rd floor), Nobab Bari Road",
+  	"phone": "+8801309-026457"
+	},
+	{
+  	"name": "Tecno Service Center - Bogura",
+  	"role": "Jamil Shopping Center, Dotto Bari",
+  	"phone": "+8801878-104201"
+	},
+	{
   	"name": "প্রয়োজনীয় সেবামূলক তথ্য সংযোজনের কার্যক্রম চলমান",
   	"role": "চলমান",
   	"phone": "+8801"
