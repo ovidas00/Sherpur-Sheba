@@ -6,9 +6,14 @@
       "phone": "0177-0790787"
     },
     {
-      "name": "Jane Smith",
-      "role": "Designer",
-      "phone": "+9876543210"
+      "name": "যমুনা ব্যাংক লিঃ",
+      "role": "বাসস্ট্যান্ড, শেরপুর",
+      "phone": "+880"
+    },
+    {
+      "name": "সিটি ব্যাংক লিঃ",
+      "role": "বৈকাল বাজার রোড, শেরপুর",
+      "phone": "+880"
     }
   ],
   "item2": [
@@ -16,71 +21,111 @@
       "name": "মোঃ আবু রায়হান (রঞ্জু)",
       "role": "এক্সিকিউটিভ অফিসার",
       "phone": "+8801722-400511"
-    },
-    {
-      "name": "Jane Smith",
-      "role": "Designer",
-      "phone": "+9876543210"
     }
   ],
   "item3": [
     {
-      "name": "Sarah White",
-      "role": "Accountant",
-      "phone": "+9988776655"
+      "name": "জন্ম নিবন্ধনের আবেদন",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://orgbdr.portal.gov.bd/site/office_order/84f21a30-c76d-430a-bea2-effc0ca8b48b#"
     },
     {
-      "name": "David Green",
-      "role": "Marketing",
-      "phone": "+3322114455"
+      "name": "জন্ম নিবন্ধন সংশোধন",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://orgbdr.portal.gov.bd/site/office_order/84f21a30-c76d-430a-bea2-effc0ca8b48b#"
+    },
+    {
+      "name": "জন্ম নিবন্ধন যাচাই",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://everify.bdris.gov.bd/"
     }
   ],
   "item4": [
     {
-      "name": "Linda Johnson",
-      "role": "HR Manager",
-      "phone": "+6677889900"
+      "name": "এনআইডি আবেদন/সংশোধন",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://services.nidw.gov.bd/nid-pub/"
     },
     {
-      "name": "Tom Anderson",
-      "role": "IT Specialist",
-      "phone": "https://sherpur.bogra.gov.bd/bn/site/view/tourist_spot"
+      "name": "এনআইডি আবেদন/সংশোধন ফর্ম ডাউনলোড",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://services.nidw.gov.bd/nid-pub/form/download"
+    },
+    {
+      "name": "এনআইডি যাচাই",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://ldtax.gov.bd/"
+    },
+    {
+      "name": "এনআইডি এর ফি",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://services.nidw.gov.bd/nid-pub/fees"
+    },
+    {
+      "name": "এনআইডি হেল্পলাইনঃ",
+      "role": "যোগাযোগের সময়ঃ রবিবার-বৃহস্পতিবার, সকাল ৯:০০টা - বিকাল ৫:০০টা পর্যন্ত",
+      "phone": "+৮৮০১৭০৮-৫০১২৬১"
     }
   ],
   "item5": [
     {
-      "name": "Mary Lee",
-      "role": "Customer Support",
-      "phone": "+4455667788"
+      "name": "ড্রাইভিং লাইসেন্স এর আবেদন",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://bsp.brta.gov.bd/drivingLicense"
     },
     {
-      "name": "Chris Evans",
-      "role": "Product Manager",
-      "phone": "+9988776655"
+      "name": "ড্রাইভিং লাইসেন্স এর ফর্ম ডাউনলোড",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://bsp.brta.gov.bd/drivingLicense"
+    },
+    {
+      "name": "ড্রাইভিং লাইসেন্স যাচাই",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://ldtax.gov.bd/"
+    },
+    {
+      "name": "ড্রাইভিং লাইসেন্স এর ফি",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://bsp.brta.gov.bd/drivingLicense"
+    },
+    {
+      "name": "ড্রাইভিং লাইসেন্স হেল্পলাইনঃ",
+      "role": "যোগাযোগের সময়ঃ রবিবার - বৃহস্পতিবার (সকাল ৯.০০ - বিকেল ৪.০০) পর্যন্ত",
+      "phone": "০৯৬১০৯৯০৯৯৮"
     }
   ],
   "item6": [
     {
-      "name": "Mary Lee",
-      "role": "Customer Support",
-      "phone": "+4455667788"
+      "name": "ই-পাসপোর্ট এর আবেদন",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://www.epassport.gov.bd/onboarding"
     },
     {
-      "name": "Chris Evans",
-      "role": "Product Manager",
-      "phone": "+9988776655"
+      "name": "ই-পাসপোর্টএর আবেদন যাচাই",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://www.epassport.gov.bd/authorization/application-status"
+    },
+    {
+      "name": "ই-পাসপোর্ট এর ফি",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://www.epassport.gov.bd/instructions/passport-fees"
+    },
+    {
+      "name": "ই-পাসপোর্ট হেল্পলাইনঃ",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://www.epassport.gov.bd/contact"
     }
   ],
   "item7": [
     {
-      "name": "Mary Lee",
-      "role": "Customer Support",
-      "phone": "+4455667788"
+      "name": "মৃত্যু সনদ হালনাগাদ",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://orgbdr.portal.gov.bd/site/office_order/84f21a30-c76d-430a-bea2-effc0ca8b48b"
     },
     {
-      "name": "Chris Evans",
-      "role": "Product Manager",
-      "phone": "+9988776655"
+      "name": "মৃত্যু সনদ যাচাই",
+      "role": "নিচের লিংকে ক্লিক করুন",
+      "phone": "https://orgbdr.portal.gov.bd/site/office_order/84f21a30-c76d-430a-bea2-effc0ca8b48b"
     }
   ],
   "item8": [
