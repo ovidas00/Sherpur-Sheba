@@ -146,6 +146,11 @@
       "phone": "01921438280"
     },
     {
+      "name": "নিরাপদ পরিবহন",
+      "role": "বগুড়া - ময়মনসিংহ",
+      "phone": "01735497240"
+    },
+    {
       "name": "মিঠু মামা (মাস্টার)",
       "role": "শেরপুর থেকে - ময়মনসিংহ, জামালপুর, কিশোরগঙ্জ, নেত্রকোনা",
       "phone": "01735497240"
@@ -154,62 +159,37 @@
   
   "item2": [
     {
-      "name": "Mike Johnson",
-      "role": "Manager",
-      "phone": "+1122334455"
-    },
-    {
-      "name": "Emily Brown",
-      "role": "Sales Rep",
-      "phone": "+5544332211"
+      "name": "প্রয়োজনীয় সেবামূলক তথ্য সংযোজনের কার্যক্রম চলমান",
+      "role": "রেন্ট এ কার",
+      "phone": "+880"
     }
-  ],
+ ],
   "item3": [
     {
-      "name": "Sarah White",
-      "role": "Accountant",
-      "phone": "+9988776655"
-    },
-    {
-      "name": "David Green",
-      "role": "Marketing",
-      "phone": "+3322114455"
+      "name": "প্রয়োজনীয় সেবামূলক তথ্য সংযোজনের কার্যক্রম চলমান",
+      "role": "ট্রাক/ পিকআপ",
+      "phone": "+880"
     }
-  ],
+],
   "item4": [
     {
-      "name": "Linda Johnson",
-      "role": "HR Manager",
-      "phone": "+6677889900"
-    },
-    {
-      "name": "Tom",
-      "role": "IT Specialist",
-      "phone": "https://sherpur.bogra.gov.bd/bn/site/view/tourist_spot"
+      "name": "বাসের টিকিট",
+      "role": "টিকিট বুকিং করতে নিজের লিংক ভিজিটি করুন",
+      "phone": "https://www.shohoz.com/bus-tickets"
     }
-  ],
+],
   "item5": [
     {
-      "name": "Mary Lee",
-      "role": "Customer Support",
-      "phone": "+4455667788"
-    },
-    {
-      "name": "Chris Evans",
-      "role": "Product Manager",
-      "phone": "+9988776655"
+      "name": "ট্রেনের টিকিট",
+      "role": "টিকিট বুকিং করতে নিজের লিংক ভিজিটি করুন",
+      "phone": "https://eticket.railway.gov.bd/"
     }
-  ],
+],
   "item6": [
     {
-      "name": "Mary Lee",
-      "role": "Customer Support",
-      "phone": "+4455667788"
-    },
-    {
-      "name": "Chris Evans",
-      "role": "Product Manager",
-      "phone": "+9988776655"
+      "name": "বিমানের টিকিট",
+      "role": "টিকিট বুকিং করতে নিজের লিংক ভিজিটি করুন",
+      "phone": "https://sharetrip.net/flight?targetid=kwd-10003370&gclid=EAIaIQobChMIg8zJqMCsggMVlaJmAh3rIAY6EAAYAiAAEgLRhfD_BwE"
     }
-  ]
+]
 }
