@@ -1,9 +1,27 @@
 {
   "item1": [
     {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/images/Khoka.jpg",
+      "name": "জনাব মোঃ জানে আলম খোকা",
+      "role": "মেয়র\nশেরপুর পৌরসভা, \nশেরপুর, বগুড়া",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/images/Haraj.jpeg",
+      "name": "জনাব কে এম মাহবুবুর রহমান হারেজ",
+      "role": "বিশিষ্ট সমাজসেবক, শেরপুর, বগুড়া",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/images/%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95%20%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A6%B0%20%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8%20%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%B0%20%E0%A6%95%E0%A7%81%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A7%81.jpg",
+      "name": "জনাব স্বাধীন কুমার কুণ্ডু",
+      "role": "সাবেক মেয়র\nশেরপুর পৌরসভা \nশেরপুর, বগুড়া",
+      "phone": "+880"
+    },
+    {
       "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/images/%E0%A6%86%E0%A6%B2%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%AC%20%E0%A6%AE%E0%A7%8B%E0%A6%83%20%E0%A6%AE%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%B0%20%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%20%E0%A6%AE%E0%A6%9C%E0%A6%A8%E0%A7%81.jpg",
       "name": "জনাব মোঃ মজিবর রহমান মজনু",
-      "role": "জাতীয় সংসদ সদস্য-৪০, বগুড়া-৫ (শেরপুর - ধুনুট), সদস্য, প্রতিরক্ষা মন্ত্রণালয় সম্পর্কিত স্থায়ী কমিটি এবং
+      "role": "সাবেক জাতীয় সংসদ সদস্য-৪০, বগুড়া-৫ (শেরপুর - ধুনুট), সদস্য, প্রতিরক্ষা মন্ত্রণালয় সম্পর্কিত স্থায়ী কমিটি এবং
 সদস্য, গৃহায়ণ ও গণপূর্ত মন্ত্রণালয় সম্পর্কিত স্থায়ী কমিটি, সভাপতি বাংলাদেশ আওয়ামীলীগ বগুড়া জেলা শাখা",
       "phone": "+880"
     },
@@ -14,15 +32,9 @@
       "phone": "+880"
     },
     {
-      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/images/Khoka.jpg",
-      "name": "জনাব মোঃ জানে আলম খোকা",
-      "role": "মেয়র\nশেরপুর পৌরসভা, \nশেরপুর, বগুড়া",
-      "phone": "+880"
-    },
-    {
       "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/images/Shah%20Jamal.jpg",
       "name": "জনাব মোঃ শাহ জামাল সিরাজী",
-      "role": "চেয়ারম্যান (ভারপ্রাপ্ত), উপজেলা পরিষদ, শেরপুর, বগুড়া",
+      "role": "সাবেক চেয়ারম্যান (ভারপ্রাপ্ত), উপজেলা পরিষদ, শেরপুর, বগুড়া",
       "phone": "+88"
     },
     {
@@ -47,18 +59,6 @@
       "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/images/minitu%20vi%20new.jpg",
       "name": "জনাব সারওয়ার রহমান মিন্টু",
       "role": "বিশিষ্ট শিল্পপতি, সমাজসেবক এবং সভাপতি শেরপুর পাইলট বালিকা উচ্চ বিদ্যালয়, শেরপুর, বগুড়া",
-      "phone": "+880"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/images/Haraj.jpeg",
-      "name": "জনাব কে এম মাহবুবুর রহমান হারেজ",
-      "role": "বিশিষ্ট সমাজসেবক, শেরপুর, বগুড়া",
-      "phone": "+880"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/images/%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95%20%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A6%B0%20%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8%20%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%B0%20%E0%A6%95%E0%A7%81%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A7%81.jpg",
-      "name": "জনাব স্বাধীন কুমার কুণ্ডু",
-      "role": "সাবেক মেয়র\nশেরপুর পৌরসভা \nশেরপুর, বগুড়া",
       "phone": "+880"
     },
     {
